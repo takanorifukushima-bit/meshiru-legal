@@ -2,7 +2,7 @@
 
 **アプリ名：** MESHIRU（メシる）  
 **開発者：** 株式会社AeroTrace  
-**連絡先：** holic.takadanobaba@gmail.com
+**連絡先：** takanorifukushima@gmail.com
 
 ---
 
